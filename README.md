@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sakeel-M
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning B.Tech: Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on programming
+**AI/ML Engineer | Gen AI | Agentic AI**
+🧠 Specializing in NLP, & Generative AI
+🤖 Building AI-driven Automation & Intelligent Systems
+🔥 Passionate about LLMs, Agentic AI & Real-world Applications
+🎯 Bridging Cutting-edge AI with Practical Use Cases
 
 <!---
 Sakeel-M/Sakeel-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
